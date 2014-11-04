@@ -1,12 +1,14 @@
 package com.pruebaci.PruebaIntegracion;
 
+import org.junit.Test;
+
 
 /**
  * Unit test for simple App.
  */
 public class AppTest 
 {
-	@org.junit.Test
+	@Test
 	public void testName() throws Exception {
 		
 	}
